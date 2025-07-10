@@ -1,6 +1,8 @@
 module ariga.io/sqlcomment
 
-go 1.24
+go 1.23.0
+
+toolchain go1.24.3
 
 require (
 	entgo.io/ent v0.14.4
